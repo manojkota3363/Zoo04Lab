@@ -88,5 +88,5 @@ java -jar target/Zoo04Lab-1.0-SNAPSHOT
 - [06-Zoo Adventure and Water Rides](https://github.com/Bchamp21/ZooJestApp) - App
 - [07-Zoo Humans](https://github.com/Vamsi735/squad6) - App
 - [09-Zoo Rental Vehicles](https://github.com/vinay564/ZooRentalVehiclesApp) - App
-- [10-Zoo Persons](https://github.com/Dierale/ZooGroup10) - App
+- [10-Zoo Persons](https://github.com/Dierale/ZooGroup10) - [App](https://group10zoo.herokuapp.com/)
 - [11-Zoo Rides](https://github.com/Hkdp-Omtri/ZooApp11) - App
