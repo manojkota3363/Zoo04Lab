@@ -18,7 +18,7 @@ public class ZooApp {
     // Specify goodbye string
     private static final String GOODBYE_MESSAGE = "Thank you for visiting our zoo!";
 
-    // specify number of  animal types available 
+    // specify number of  animal types available
     private static final int NUMBER_ANIMAL_TYPES = 60;
 
     /**
@@ -31,7 +31,7 @@ public class ZooApp {
         // output welcome
         System.out.println(GREETING_MESSAGE);
 
-        // output how to escape 
+        // output how to escape
         System.out.println(ESCAPE_MESSAGE);
 
         // construct Scanner and begin interaction
