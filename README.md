@@ -83,7 +83,7 @@ java -jar target/Zoo04Lab-1.0-SNAPSHOT
 - [01-Zoo Cost Calculator](https://github.com/bharathnw/ZooCostCalculator) - App
 - [02-Zoo Restaurant](https://github.com/gorantla07/ZooRestaurant) - App
 - [03-Zoo Visitors and Employees](https://github.com/S545232/ZooGroup03) - App
-- [04-Zoo Vehicles](https://github.com/nagururehaman/ZooAppVehicle) - App
+- [04-Zoo Vehicles](https://github.com/nagururehaman/ZooAppVehicle) - [App](https://zooappvehicle.herokuapp.com/)
 - [05-Zoo Games](https://github.com/satheesheppalapelli/ZooGameApp) - App
 - [06-Zoo Adventure and Water Rides](https://github.com/Bchamp21/ZooJestApp) - App
 - [07-Zoo Humans](https://github.com/Vamsi735/squad6) - App
