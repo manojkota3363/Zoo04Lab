@@ -15,7 +15,7 @@ pom.xml
 Procfile
 README.md
 ROOT_FILES.txt
-SOURCE_NON_ANIMAL_FILES.txt
+SOURCE_NON_CUSTOMCLASS_FILES.txt
 system.properties
 UPDATE-TO-JAVA-17.md
 

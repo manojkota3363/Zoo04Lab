@@ -23,7 +23,7 @@
     <url>https://zooweb.herokuapp.com/</url>
 
     <properties>
-        <start-class>edu.nwmissouri.zoo04lab.ZooWebApp</start-class>
+        <start-class>edu.nwmissouri.zoo04lab.AppWeb</start-class>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>17</java.version>
         <maven.compiler.source>${java.version}</maven.compiler.source>
@@ -117,7 +117,7 @@
                 <executions>
                     <execution>
                         <configuration>
-                            <mainClass>edu.nwmissouri.zoo04lab.ZooWebApp</mainClass>
+                            <mainClass>edu.nwmissouri.zoo04lab.AppWeb</mainClass>
                         </configuration>
                     </execution>
                 </executions>
