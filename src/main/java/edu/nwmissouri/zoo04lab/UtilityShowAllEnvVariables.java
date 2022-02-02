@@ -6,7 +6,7 @@ import static java.util.Map.Entry.comparingByKey;
 import static java.util.stream.Collectors.toMap;
 
 /**
- *
+ * Utility program - run this to see your Windows environment variables. 
  * @author Denise Case
  */
 public class UtilityShowAllEnvVariables {

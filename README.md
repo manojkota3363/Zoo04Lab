@@ -37,6 +37,23 @@ Open Powershell Here as Admininstrator in your root project folder (the one with
 
 -----
 
+## Run in Netbeans
+
+- Open the project
+- Make sure you're compiling with Java 17 or better
+
+To run the console app, in Netbeans project view:
+
+- Right-click on App, click Run File
+
+To run the web app, in Netbeans project view:
+
+- Right-click on AppWeb, click Run File
+- open browser to <http://localhost:8080/>
+
+When done, remember to click the red icon to stop the currently running build. 
+Use CTRL ALT DEL / Task Manager to view (& kill) any extra Netbeans processes. 
+
 ## Compile & Run with Java 17
 
 Netbeans
