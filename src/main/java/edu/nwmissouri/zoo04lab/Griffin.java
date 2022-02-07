@@ -6,6 +6,7 @@ enum NumberParity {
     EVEN,
     ODD
 }
+//qqq
 
 /**
  * The class Griffin, a subclass of Animal
